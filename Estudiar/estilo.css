@@ -1,0 +1,21 @@
+.tit{
+    background-color: #0fcc15;
+    font: 1em Bodoni MT;
+    text-align: center;
+}
+.derecha {
+    float: right; /* Esto coloca la imagen a la derecha */
+    margin-left: 15px; /* Espacio a la izquierda si es necesario */
+}
+.izquierda {
+    float: left; /* Esto coloca la imagen a la derecha */
+    margin-right: 30px;
+}
+.text{
+    font:1em Baskerville Old Face;
+    font-size: 30px;
+}
+.carreras{
+    font-size: 20px;
+    background-color: #82cc0f;
+}

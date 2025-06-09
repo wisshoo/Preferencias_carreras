@@ -1,0 +1,17 @@
+.titulo{
+    text-align: center;
+    background-color: #16a085;
+}
+body{
+background:linear-gradient(150deg,#5499c7,#2471a3,#ffffff);
+}
+.sub{
+background-color: #27ae60;
+}
+.derecha {
+    float: right; /* Esto coloca la imagen a la derecha */
+}
+.izquierda {
+    float: left; /* Esto coloca la imagen a la derecha */
+    margin-right: 30px;
+}
